@@ -1,4 +1,4 @@
-![](images\mq-title.png)
+![](images\MQA-title.png)
 
 **IBM MQ Appliance Proof of Technology Overview?**
 
